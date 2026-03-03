@@ -115,7 +115,7 @@ function reiniciarjogo(){
     cano.style.left = ''
 
     //RESTAURAR MARIO
-    mario.src = './img/mario.gif'
+    mario.src = './img/dgo6rbh-1cbc5113-7fe3-4338-ba5f-33a9f2f38e18.gif'
     mario.style.width = '130px'
     mario.style.bottom = '0px'
     mario.style.animation = '' // remove qualquer animação fixa
