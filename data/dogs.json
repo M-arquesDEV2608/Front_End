@@ -1,0 +1,6 @@
+{
+    "husky":    ["husky/01.jpg",    "husky/02.jpg",    "husky/03.jpg"],
+    "pug":      ["pug/001.jpg",      "pug/002.jpg",      "pug/003.jpg"],
+    "beagle":   ["beagle/1.jpg",   "beagle/2.jpg",   "beagle/3.jpg"],
+    "labrador": ["labrador/1.1.jpg", "labrador/2.2.jpg", "labrador/3.3.jpg"]
+}
